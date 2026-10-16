@@ -2,3 +2,4 @@ LLISTAT D'ALUMNES
 
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
+43 | Jose Ruiz Casal | Tengen Toppa Gurren Lagann The Movie: Lagann-hen
